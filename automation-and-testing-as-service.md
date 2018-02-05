@@ -35,7 +35,7 @@ Also:
 * [Testmunk](https://testmunk.com/) automates mobile app testing
 
 ## API mocking
-* [MockLab](http://get.mocklab.io?utm_source=awesome-test-automation&utm_medium=automation-and-testing-as-service)
+* [MockLab](http://get.mocklab.io?utm_source=awesome-test-automation&utm_medium=automation-and-testing-as-service) is a hosted API simulation tool built on WireMock (maintaining 100% API compatibility). It supports flexible request/response stubbing for any HTTP-based protocol, response templating with Handlebars, conditional proxying and fault injection.
 
 ## Performance and load testing
 * [Loader.io](https://loader.io/) - A FREE load testing service that allows you to stress test your web-apps & apis with thousands of concurrent connections.
